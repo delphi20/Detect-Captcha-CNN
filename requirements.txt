@@ -1,5 +1,7 @@
 flask
-torch
 ultralytics
 opencv-python-headless
 numpy
+python-dotenv
+time
+pathlib
