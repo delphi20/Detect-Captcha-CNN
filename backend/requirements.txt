@@ -1,0 +1,8 @@
+flask
+ultralytics
+opencv-python-headless
+numpy
+python-dotenv
+time
+pathlib
+flask-cors
